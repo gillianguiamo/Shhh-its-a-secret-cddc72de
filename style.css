@@ -1,0 +1,52 @@
+h1 {
+  color: red;
+  text-shadow: 0 0 5px red;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-color: solid red;
+  border-style: solid;
+  border-radius: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+body {
+  background: rgba(20, 20, 25, 1);
+  color: white;
+  letter-spacing: 0.05em;
+}
+
+input {
+  width: 200px;
+}
+
+.formulierheader {
+  padding: 15px;
+  color: cyan;
+  text-shadow: 0 0 10px rgba(0, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.2);
+  margin-right: 400px;
+  text-transform: "";
+  border-radius: 25px;
+  border: 2px;
+  border-style: solid;
+}
+
+.formulier {
+  color: white:;
+  text-shadow: 0 0 15px white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+label {
+  padding: 15px;
+}
+
+form.form {
+  display: table-row;
+}
+
+input {
+  border-radius: 5px;
+}
